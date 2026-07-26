@@ -22,3 +22,4 @@ from .victim import Victim
 from .accused import Accused
 from .complainant_details import Complainant
 from .arrest_surrender import ArrestSurrender
+from .chargesheet_details import ChargesheetDetails

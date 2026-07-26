@@ -7,6 +7,7 @@ from app.schemas.case_master import (
     CaseMasterResponse,
     CaseMasterUpdate,
 )
+from typing import List
 from app.services.case_master_service import case_master_service
 
 router = APIRouter(
@@ -20,10 +21,13 @@ def create(data: CaseMasterCreate, db: Session = Depends(get_db)):
     return case_master_service.create(db, data)
 
 
-@router.get("/", response_model=list[CaseMasterResponse])
-def get_all(db: Session = Depends(get_db)):
-    return case_master_service.get_all(db)
-
+@router.get("/", response_model=List[CaseMasterResponse])
+def get_case_masters(
+    skip: int = 0,
+    limit: int = 100,
+    db: Session = Depends(get_db),
+):
+    return case_master_service.get_all(db, skip, limit)
 
 @router.get("/{id}", response_model=CaseMasterResponse)
 def get_by_id(id: int, db: Session = Depends(get_db)):

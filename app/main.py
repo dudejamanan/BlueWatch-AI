@@ -30,6 +30,9 @@ from app.api.routes.victim import router as victim_router
 
 from app.api.routes.accused import router as accused_router
 from app.api.routes.complainant import router as complainant_router
+from app.api.routes.chargesheet_details import (
+    router as chargesheet_details_router,
+)
 
 
 app = FastAPI(
@@ -61,8 +64,18 @@ app.include_router(case_status_master_router)
 app.include_router(court_router)
 app.include_router(case_master_router)
 app.include_router(victim_router)
-
 app.include_router(accused_router)
-
-
 app.include_router(complainant_router)
+app.include_router(chargesheet_details_router)
+
+
+# | Layer      | Responsibility                                |
+# | ---------- | --------------------------------------------- |
+# | Model      | Defines database tables                       |
+# | Seeder     | Loads CSV data into the database              |
+# | Connection | Creates and manages database sessions         |
+# | Repository | Performs database queries                     |
+# | Service    | Contains business rules and application logic |
+# | Route      | Exposes REST API endpoints                    |
+# | Schema     | Validates requests and shapes API responses   |
+# | Main       | Starts the application and registers routes   |
