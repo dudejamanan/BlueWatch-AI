@@ -24,6 +24,13 @@ from app.api.routes.occupation_master import router as occupation_master_router
 from app.api.routes.religion_master import router as religion_master_router
 from app.api.routes.caste_master import router as caste_master_router
 from app.api.routes.case_status_master import router as case_status_master_router
+from app.api.routes.court import router as court_router
+from app.api.routes.case_master import router as case_master_router
+from app.api.routes.victim import router as victim_router
+
+from app.api.routes.accused import router as accused_router
+from app.api.routes.complainant import router as complainant_router
+
 
 app = FastAPI(
     title=settings.project_name,
@@ -51,3 +58,11 @@ app.include_router(occupation_master_router)
 app.include_router(religion_master_router)
 app.include_router(caste_master_router)
 app.include_router(case_status_master_router)
+app.include_router(court_router)
+app.include_router(case_master_router)
+app.include_router(victim_router)
+
+app.include_router(accused_router)
+
+
+app.include_router(complainant_router)

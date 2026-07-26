@@ -16,3 +16,9 @@ from .occupation_master import Occupation
 from .religion_master import Religion
 from .caste_master import Caste
 from .case_status_master import CaseStatus
+from .court import Court
+from .case_master import CaseMaster
+from .victim import Victim
+from .accused import Accused
+from .complainant_details import Complainant
+from .arrest_surrender import ArrestSurrender
