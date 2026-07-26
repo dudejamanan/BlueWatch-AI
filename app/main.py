@@ -4,6 +4,12 @@ from app.core.logging import logger
 from app.core.config import settings
 from app.api.routes.root import router as root_router
 from app.api.routes.health import router as health_router
+from app.api.routes.state import router as state_router
+
+
+
+
+
 
 app = FastAPI(
     title=settings.project_name,
@@ -13,3 +19,4 @@ logger.info("BlueWatch API started successfully.")
 
 app.include_router(root_router)
 app.include_router(health_router)
+app.include_router(state_router)
