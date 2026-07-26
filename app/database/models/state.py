@@ -33,3 +33,4 @@ class State(Base):
     "District",
     back_populates="state"
     )
+    units = relationship("Unit")

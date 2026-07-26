@@ -28,7 +28,5 @@ class District(Base):
         nullable=False
     )
 
-    state = relationship(
-        "State",
-        back_populates="districts"
-    )
+    state = relationship("State", back_populates="districts")
+    units = relationship("Unit")
