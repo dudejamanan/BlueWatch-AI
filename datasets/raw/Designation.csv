@@ -1,0 +1,11 @@
+DesignationID,DesignationName,SortOrder,Active
+1,Investigating Officer,1,1
+2,Station House Officer (SHO),2,1
+3,Beat Officer,3,1
+4,Cyber Cell Officer,4,1
+5,Traffic Officer,5,1
+6,Women Cell Officer,6,1
+7,Circle Inspector,7,1
+8,SP - District Head,8,1
+9,Range DIG,9,1
+10,State HQ Officer,10,1

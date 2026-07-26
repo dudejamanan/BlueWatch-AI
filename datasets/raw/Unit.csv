@@ -1,0 +1,615 @@
+UnitID,UnitName,TypeID,ParentUnit,NationalityID,StateID,DistrictID,Active
+1,Karnataka State Police Headquarters,9,,1,1,1,1
+2,Bengaluru City Range,8,1.0,1,1,1,1
+3,Bengaluru Range,8,1.0,1,1,1,1
+4,Mysuru Range,8,1.0,1,1,1,1
+5,Belagavi Range,8,1.0,1,1,1,1
+6,Kalaburagi Range,8,1.0,1,1,1,1
+7,North East Range,8,1.0,1,1,1,1
+8,"Office of the SP, Bagalkot",7,3.0,1,1,1,1
+9,Bagalkot Circle-1,5,8.0,1,1,1,1
+10,Bagalkot Circle-2,5,8.0,1,1,1,1
+11,Bagalkot Circle-3,5,8.0,1,1,1,1
+12,Bagalkot Circle-4,5,8.0,1,1,1,1
+13,Bagalkot Town Police Station,1,9.0,1,1,1,1
+14,Bagalkot Rural Police Station,1,9.0,1,1,1,1
+15,Bagalkot East Police Station,1,11.0,1,1,1,1
+16,Bagalkot-West PS #4,1,10.0,1,1,1,1
+17,Bagalkot-North PS #5,1,10.0,1,1,1,1
+18,Bagalkot-South PS #6,1,10.0,1,1,1,1
+19,Bagalkot-Extension PS #7,1,9.0,1,1,1,1
+20,Bagalkot-Industrial Area PS #8,1,9.0,1,1,1,1
+21,Bagalkot-Old City PS #9,1,12.0,1,1,1,1
+22,Bagalkot-New Town PS #10,1,9.0,1,1,1,1
+23,Bagalkot-Market PS #11,1,9.0,1,1,1,1
+24,Bagalkot Traffic Police Station,2,8.0,1,1,1,1
+25,Bagalkot Women Police Station,3,8.0,1,1,1,1
+26,Bagalkot Cyber Crime Police Station,4,8.0,1,1,1,1
+27,"Office of the SP, Ballari",7,4.0,1,1,2,1
+28,Ballari Circle-1,5,27.0,1,1,2,1
+29,Ballari Circle-2,5,27.0,1,1,2,1
+30,Ballari Town Police Station,1,28.0,1,1,2,1
+31,Ballari Rural Police Station,1,28.0,1,1,2,1
+32,Ballari East Police Station,1,28.0,1,1,2,1
+33,Ballari-West PS #4,1,28.0,1,1,2,1
+34,Ballari-North PS #5,1,28.0,1,1,2,1
+35,Ballari-South PS #6,1,29.0,1,1,2,1
+36,Ballari-Extension PS #7,1,28.0,1,1,2,1
+37,Ballari-Industrial Area PS #8,1,29.0,1,1,2,1
+38,Ballari-Old City PS #9,1,29.0,1,1,2,1
+39,Ballari-New Town PS #10,1,28.0,1,1,2,1
+40,Ballari-Market PS #11,1,28.0,1,1,2,1
+41,Ballari-Cantonment PS #12,1,29.0,1,1,2,1
+42,Ballari-Suburb PS #13,1,29.0,1,1,2,1
+43,Ballari-Town PS #14,1,29.0,1,1,2,1
+44,Ballari Traffic Police Station,2,27.0,1,1,2,1
+45,Ballari Women Police Station,3,27.0,1,1,2,1
+46,Ballari Cyber Crime Police Station,4,27.0,1,1,2,1
+47,"Office of the SP, Belagavi",7,5.0,1,1,3,1
+48,Belagavi Circle-1,5,47.0,1,1,3,1
+49,Belagavi Circle-2,5,47.0,1,1,3,1
+50,Belagavi Circle-3,5,47.0,1,1,3,1
+51,Belagavi Circle-4,5,47.0,1,1,3,1
+52,Belagavi Town Police Station,1,49.0,1,1,3,1
+53,Belagavi Rural Police Station,1,49.0,1,1,3,1
+54,Belagavi East Police Station,1,50.0,1,1,3,1
+55,Belagavi-West PS #4,1,48.0,1,1,3,1
+56,Belagavi-North PS #5,1,48.0,1,1,3,1
+57,Belagavi-South PS #6,1,51.0,1,1,3,1
+58,Belagavi-Extension PS #7,1,48.0,1,1,3,1
+59,Belagavi-Industrial Area PS #8,1,50.0,1,1,3,1
+60,Belagavi-Old City PS #9,1,50.0,1,1,3,1
+61,Belagavi-New Town PS #10,1,50.0,1,1,3,1
+62,Belagavi-Market PS #11,1,48.0,1,1,3,1
+63,Belagavi-Cantonment PS #12,1,51.0,1,1,3,1
+64,Belagavi-Suburb PS #13,1,48.0,1,1,3,1
+65,Belagavi-Town PS #14,1,51.0,1,1,3,1
+66,Belagavi-Rural PS #15,1,48.0,1,1,3,1
+67,Belagavi-East PS #16,1,50.0,1,1,3,1
+68,Belagavi-West PS #17,1,50.0,1,1,3,1
+69,Belagavi-North PS #18,1,49.0,1,1,3,1
+70,Belagavi-South PS #19,1,48.0,1,1,3,1
+71,Belagavi-Extension PS #20,1,48.0,1,1,3,1
+72,Belagavi-Industrial Area PS #21,1,49.0,1,1,3,1
+73,Belagavi-Old City PS #22,1,50.0,1,1,3,1
+74,Belagavi-New Town PS #23,1,48.0,1,1,3,1
+75,Belagavi-Market PS #24,1,49.0,1,1,3,1
+76,Belagavi-Cantonment PS #25,1,48.0,1,1,3,1
+77,Belagavi Traffic Police Station,2,47.0,1,1,3,1
+78,Belagavi Women Police Station,3,47.0,1,1,3,1
+79,Belagavi Cyber Crime Police Station,4,47.0,1,1,3,1
+80,"Office of the SP, Bengaluru Rural",7,6.0,1,1,4,1
+81,Bengaluru Rural Circle-1,5,80.0,1,1,4,1
+82,Bengaluru Rural Circle-2,5,80.0,1,1,4,1
+83,Bengaluru Rural Town Police Station,1,82.0,1,1,4,1
+84,Devanahalli Rural Police Station,1,82.0,1,1,4,1
+85,Devanahalli East Police Station,1,82.0,1,1,4,1
+86,Devanahalli-West PS #4,1,82.0,1,1,4,1
+87,Devanahalli-North PS #5,1,81.0,1,1,4,1
+88,Devanahalli-South PS #6,1,82.0,1,1,4,1
+89,Devanahalli-Extension PS #7,1,82.0,1,1,4,1
+90,Devanahalli-Industrial Area PS #8,1,81.0,1,1,4,1
+91,Devanahalli-Old City PS #9,1,82.0,1,1,4,1
+92,Devanahalli-New Town PS #10,1,81.0,1,1,4,1
+93,Devanahalli-Market PS #11,1,81.0,1,1,4,1
+94,Devanahalli-Cantonment PS #12,1,81.0,1,1,4,1
+95,Devanahalli Traffic Police Station,2,80.0,1,1,4,1
+96,Devanahalli Women Police Station,3,80.0,1,1,4,1
+97,Bengaluru Rural Cyber Crime Police Station,4,80.0,1,1,4,1
+98,"Office of the SP, Bengaluru Urban",7,7.0,1,1,5,1
+99,Bengaluru Urban Circle-1,5,98.0,1,1,5,1
+100,Bengaluru Urban Circle-2,5,98.0,1,1,5,1
+101,Bengaluru Urban Circle-3,5,98.0,1,1,5,1
+102,Bengaluru Urban Circle-4,5,98.0,1,1,5,1
+103,Bengaluru Urban Town Police Station,1,100.0,1,1,5,1
+104,Bengaluru Rural Police Station,1,102.0,1,1,5,1
+105,Bengaluru East Police Station,1,102.0,1,1,5,1
+106,Bengaluru-West PS #4,1,101.0,1,1,5,1
+107,Bengaluru-North PS #5,1,100.0,1,1,5,1
+108,Bengaluru-South PS #6,1,101.0,1,1,5,1
+109,Bengaluru-Extension PS #7,1,99.0,1,1,5,1
+110,Bengaluru-Industrial Area PS #8,1,100.0,1,1,5,1
+111,Bengaluru-Old City PS #9,1,99.0,1,1,5,1
+112,Bengaluru-New Town PS #10,1,101.0,1,1,5,1
+113,Bengaluru-Market PS #11,1,102.0,1,1,5,1
+114,Bengaluru-Cantonment PS #12,1,101.0,1,1,5,1
+115,Bengaluru-Suburb PS #13,1,99.0,1,1,5,1
+116,Bengaluru-Town PS #14,1,100.0,1,1,5,1
+117,Bengaluru-Rural PS #15,1,101.0,1,1,5,1
+118,Bengaluru-East PS #16,1,100.0,1,1,5,1
+119,Bengaluru-West PS #17,1,102.0,1,1,5,1
+120,Bengaluru-North PS #18,1,102.0,1,1,5,1
+121,Bengaluru-South PS #19,1,102.0,1,1,5,1
+122,Bengaluru Traffic Police Station,2,98.0,1,1,5,1
+123,Bengaluru Women Police Station,3,98.0,1,1,5,1
+124,Bengaluru Urban Cyber Crime Police Station,4,98.0,1,1,5,1
+125,"Office of the SP, Bidar",7,2.0,1,1,6,1
+126,Bidar Circle-1,5,125.0,1,1,6,1
+127,Bidar Circle-2,5,125.0,1,1,6,1
+128,Bidar Circle-3,5,125.0,1,1,6,1
+129,Bidar Circle-4,5,125.0,1,1,6,1
+130,Bidar Town Police Station,1,127.0,1,1,6,1
+131,Bidar Rural Police Station,1,128.0,1,1,6,1
+132,Bidar East Police Station,1,127.0,1,1,6,1
+133,Bidar-West PS #4,1,127.0,1,1,6,1
+134,Bidar-North PS #5,1,128.0,1,1,6,1
+135,Bidar-South PS #6,1,129.0,1,1,6,1
+136,Bidar-Extension PS #7,1,129.0,1,1,6,1
+137,Bidar-Industrial Area PS #8,1,128.0,1,1,6,1
+138,Bidar-Old City PS #9,1,127.0,1,1,6,1
+139,Bidar-New Town PS #10,1,127.0,1,1,6,1
+140,Bidar-Market PS #11,1,129.0,1,1,6,1
+141,Bidar-Cantonment PS #12,1,126.0,1,1,6,1
+142,Bidar-Suburb PS #13,1,126.0,1,1,6,1
+143,Bidar-Town PS #14,1,126.0,1,1,6,1
+144,Bidar Traffic Police Station,2,125.0,1,1,6,1
+145,Bidar Women Police Station,3,125.0,1,1,6,1
+146,Bidar Cyber Crime Police Station,4,125.0,1,1,6,1
+147,"Office of the SP, Chamarajanagar",7,3.0,1,1,7,1
+148,Chamarajanagar Circle-1,5,147.0,1,1,7,1
+149,Chamarajanagar Circle-2,5,147.0,1,1,7,1
+150,Chamarajanagar Circle-3,5,147.0,1,1,7,1
+151,Chamarajanagar Circle-4,5,147.0,1,1,7,1
+152,Chamarajanagar Town Police Station,1,149.0,1,1,7,1
+153,Chamarajanagar Rural Police Station,1,149.0,1,1,7,1
+154,Chamarajanagar East Police Station,1,151.0,1,1,7,1
+155,Chamarajanagar-West PS #4,1,148.0,1,1,7,1
+156,Chamarajanagar-North PS #5,1,151.0,1,1,7,1
+157,Chamarajanagar-South PS #6,1,151.0,1,1,7,1
+158,Chamarajanagar-Extension PS #7,1,151.0,1,1,7,1
+159,Chamarajanagar-Industrial Area PS #8,1,150.0,1,1,7,1
+160,Chamarajanagar-Old City PS #9,1,148.0,1,1,7,1
+161,Chamarajanagar-New Town PS #10,1,148.0,1,1,7,1
+162,Chamarajanagar Traffic Police Station,2,147.0,1,1,7,1
+163,Chamarajanagar Women Police Station,3,147.0,1,1,7,1
+164,Chamarajanagar Cyber Crime Police Station,4,147.0,1,1,7,1
+165,"Office of the SP, Chikkaballapur",7,4.0,1,1,8,1
+166,Chikkaballapur Circle-1,5,165.0,1,1,8,1
+167,Chikkaballapur Circle-2,5,165.0,1,1,8,1
+168,Chikkaballapur Town Police Station,1,167.0,1,1,8,1
+169,Chikkaballapur Rural Police Station,1,167.0,1,1,8,1
+170,Chikkaballapur East Police Station,1,166.0,1,1,8,1
+171,Chikkaballapur-West PS #4,1,167.0,1,1,8,1
+172,Chikkaballapur-North PS #5,1,167.0,1,1,8,1
+173,Chikkaballapur-South PS #6,1,166.0,1,1,8,1
+174,Chikkaballapur-Extension PS #7,1,167.0,1,1,8,1
+175,Chikkaballapur-Industrial Area PS #8,1,166.0,1,1,8,1
+176,Chikkaballapur-Old City PS #9,1,167.0,1,1,8,1
+177,Chikkaballapur-New Town PS #10,1,166.0,1,1,8,1
+178,Chikkaballapur-Market PS #11,1,166.0,1,1,8,1
+179,Chikkaballapur Traffic Police Station,2,165.0,1,1,8,1
+180,Chikkaballapur Women Police Station,3,165.0,1,1,8,1
+181,Chikkaballapur Cyber Crime Police Station,4,165.0,1,1,8,1
+182,"Office of the SP, Chikkamagaluru",7,5.0,1,1,9,1
+183,Chikkamagaluru Circle-1,5,182.0,1,1,9,1
+184,Chikkamagaluru Circle-2,5,182.0,1,1,9,1
+185,Chikkamagaluru Circle-3,5,182.0,1,1,9,1
+186,Chikkamagaluru Circle-4,5,182.0,1,1,9,1
+187,Chikkamagaluru Town Police Station,1,185.0,1,1,9,1
+188,Chikkamagaluru Rural Police Station,1,184.0,1,1,9,1
+189,Chikkamagaluru East Police Station,1,184.0,1,1,9,1
+190,Chikkamagaluru-West PS #4,1,185.0,1,1,9,1
+191,Chikkamagaluru-North PS #5,1,184.0,1,1,9,1
+192,Chikkamagaluru-South PS #6,1,183.0,1,1,9,1
+193,Chikkamagaluru-Extension PS #7,1,185.0,1,1,9,1
+194,Chikkamagaluru-Industrial Area PS #8,1,186.0,1,1,9,1
+195,Chikkamagaluru-Old City PS #9,1,183.0,1,1,9,1
+196,Chikkamagaluru-New Town PS #10,1,183.0,1,1,9,1
+197,Chikkamagaluru-Market PS #11,1,185.0,1,1,9,1
+198,Chikkamagaluru-Cantonment PS #12,1,185.0,1,1,9,1
+199,Chikkamagaluru-Suburb PS #13,1,184.0,1,1,9,1
+200,Chikkamagaluru Traffic Police Station,2,182.0,1,1,9,1
+201,Chikkamagaluru Women Police Station,3,182.0,1,1,9,1
+202,Chikkamagaluru Cyber Crime Police Station,4,182.0,1,1,9,1
+203,"Office of the SP, Chitradurga",7,6.0,1,1,10,1
+204,Chitradurga Circle-1,5,203.0,1,1,10,1
+205,Chitradurga Circle-2,5,203.0,1,1,10,1
+206,Chitradurga Town Police Station,1,204.0,1,1,10,1
+207,Chitradurga Rural Police Station,1,204.0,1,1,10,1
+208,Chitradurga East Police Station,1,204.0,1,1,10,1
+209,Chitradurga-West PS #4,1,204.0,1,1,10,1
+210,Chitradurga-North PS #5,1,205.0,1,1,10,1
+211,Chitradurga-South PS #6,1,204.0,1,1,10,1
+212,Chitradurga-Extension PS #7,1,204.0,1,1,10,1
+213,Chitradurga-Industrial Area PS #8,1,204.0,1,1,10,1
+214,Chitradurga-Old City PS #9,1,205.0,1,1,10,1
+215,Chitradurga Traffic Police Station,2,203.0,1,1,10,1
+216,Chitradurga Women Police Station,3,203.0,1,1,10,1
+217,Chitradurga Cyber Crime Police Station,4,203.0,1,1,10,1
+218,"Office of the SP, Dakshina Kannada",7,7.0,1,1,11,1
+219,Dakshina Kannada Circle-1,5,218.0,1,1,11,1
+220,Dakshina Kannada Circle-2,5,218.0,1,1,11,1
+221,Dakshina Kannada Circle-3,5,218.0,1,1,11,1
+222,Dakshina Kannada Town Police Station,1,221.0,1,1,11,1
+223,Mangaluru Rural Police Station,1,219.0,1,1,11,1
+224,Mangaluru East Police Station,1,220.0,1,1,11,1
+225,Mangaluru-West PS #4,1,221.0,1,1,11,1
+226,Mangaluru-North PS #5,1,221.0,1,1,11,1
+227,Mangaluru-South PS #6,1,220.0,1,1,11,1
+228,Mangaluru-Extension PS #7,1,219.0,1,1,11,1
+229,Mangaluru-Industrial Area PS #8,1,221.0,1,1,11,1
+230,Mangaluru-Old City PS #9,1,221.0,1,1,11,1
+231,Mangaluru-New Town PS #10,1,221.0,1,1,11,1
+232,Mangaluru-Market PS #11,1,219.0,1,1,11,1
+233,Mangaluru-Cantonment PS #12,1,221.0,1,1,11,1
+234,Mangaluru-Suburb PS #13,1,220.0,1,1,11,1
+235,Mangaluru-Town PS #14,1,220.0,1,1,11,1
+236,Mangaluru-Rural PS #15,1,221.0,1,1,11,1
+237,Mangaluru-East PS #16,1,221.0,1,1,11,1
+238,Mangaluru-West PS #17,1,220.0,1,1,11,1
+239,Mangaluru-North PS #18,1,220.0,1,1,11,1
+240,Mangaluru-South PS #19,1,221.0,1,1,11,1
+241,Mangaluru-Extension PS #20,1,220.0,1,1,11,1
+242,Mangaluru-Industrial Area PS #21,1,219.0,1,1,11,1
+243,Mangaluru-Old City PS #22,1,219.0,1,1,11,1
+244,Mangaluru-New Town PS #23,1,219.0,1,1,11,1
+245,Mangaluru Traffic Police Station,2,218.0,1,1,11,1
+246,Mangaluru Women Police Station,3,218.0,1,1,11,1
+247,Dakshina Kannada Cyber Crime Police Station,4,218.0,1,1,11,1
+248,"Office of the SP, Davanagere",7,2.0,1,1,12,1
+249,Davanagere Circle-1,5,248.0,1,1,12,1
+250,Davanagere Circle-2,5,248.0,1,1,12,1
+251,Davanagere Circle-3,5,248.0,1,1,12,1
+252,Davanagere Town Police Station,1,249.0,1,1,12,1
+253,Davanagere Rural Police Station,1,250.0,1,1,12,1
+254,Davanagere East Police Station,1,249.0,1,1,12,1
+255,Davanagere-West PS #4,1,251.0,1,1,12,1
+256,Davanagere-North PS #5,1,251.0,1,1,12,1
+257,Davanagere-South PS #6,1,249.0,1,1,12,1
+258,Davanagere-Extension PS #7,1,251.0,1,1,12,1
+259,Davanagere-Industrial Area PS #8,1,249.0,1,1,12,1
+260,Davanagere-Old City PS #9,1,249.0,1,1,12,1
+261,Davanagere-New Town PS #10,1,249.0,1,1,12,1
+262,Davanagere-Market PS #11,1,251.0,1,1,12,1
+263,Davanagere-Cantonment PS #12,1,251.0,1,1,12,1
+264,Davanagere-Suburb PS #13,1,249.0,1,1,12,1
+265,Davanagere-Town PS #14,1,249.0,1,1,12,1
+266,Davanagere-Rural PS #15,1,249.0,1,1,12,1
+267,Davanagere Traffic Police Station,2,248.0,1,1,12,1
+268,Davanagere Women Police Station,3,248.0,1,1,12,1
+269,Davanagere Cyber Crime Police Station,4,248.0,1,1,12,1
+270,"Office of the SP, Dharwad",7,3.0,1,1,13,1
+271,Dharwad Circle-1,5,270.0,1,1,13,1
+272,Dharwad Circle-2,5,270.0,1,1,13,1
+273,Dharwad Town Police Station,1,271.0,1,1,13,1
+274,Dharwad Rural Police Station,1,272.0,1,1,13,1
+275,Dharwad East Police Station,1,271.0,1,1,13,1
+276,Dharwad-West PS #4,1,271.0,1,1,13,1
+277,Dharwad-North PS #5,1,272.0,1,1,13,1
+278,Dharwad-South PS #6,1,272.0,1,1,13,1
+279,Dharwad-Extension PS #7,1,271.0,1,1,13,1
+280,Dharwad-Industrial Area PS #8,1,271.0,1,1,13,1
+281,Dharwad Traffic Police Station,2,270.0,1,1,13,1
+282,Dharwad Women Police Station,3,270.0,1,1,13,1
+283,Dharwad Cyber Crime Police Station,4,270.0,1,1,13,1
+284,"Office of the SP, Gadag",7,4.0,1,1,14,1
+285,Gadag Circle-1,5,284.0,1,1,14,1
+286,Gadag Circle-2,5,284.0,1,1,14,1
+287,Gadag Circle-3,5,284.0,1,1,14,1
+288,Gadag Town Police Station,1,287.0,1,1,14,1
+289,Gadag Rural Police Station,1,287.0,1,1,14,1
+290,Gadag East Police Station,1,287.0,1,1,14,1
+291,Gadag-West PS #4,1,286.0,1,1,14,1
+292,Gadag-North PS #5,1,285.0,1,1,14,1
+293,Gadag-South PS #6,1,286.0,1,1,14,1
+294,Gadag-Extension PS #7,1,286.0,1,1,14,1
+295,Gadag-Industrial Area PS #8,1,285.0,1,1,14,1
+296,Gadag-Old City PS #9,1,285.0,1,1,14,1
+297,Gadag-New Town PS #10,1,285.0,1,1,14,1
+298,Gadag-Market PS #11,1,287.0,1,1,14,1
+299,Gadag-Cantonment PS #12,1,286.0,1,1,14,1
+300,Gadag-Suburb PS #13,1,286.0,1,1,14,1
+301,Gadag Traffic Police Station,2,284.0,1,1,14,1
+302,Gadag Women Police Station,3,284.0,1,1,14,1
+303,Gadag Cyber Crime Police Station,4,284.0,1,1,14,1
+304,"Office of the SP, Hassan",7,5.0,1,1,15,1
+305,Hassan Circle-1,5,304.0,1,1,15,1
+306,Hassan Circle-2,5,304.0,1,1,15,1
+307,Hassan Town Police Station,1,306.0,1,1,15,1
+308,Hassan Rural Police Station,1,306.0,1,1,15,1
+309,Hassan East Police Station,1,306.0,1,1,15,1
+310,Hassan-West PS #4,1,305.0,1,1,15,1
+311,Hassan-North PS #5,1,305.0,1,1,15,1
+312,Hassan-South PS #6,1,305.0,1,1,15,1
+313,Hassan-Extension PS #7,1,306.0,1,1,15,1
+314,Hassan-Industrial Area PS #8,1,306.0,1,1,15,1
+315,Hassan-Old City PS #9,1,305.0,1,1,15,1
+316,Hassan-New Town PS #10,1,305.0,1,1,15,1
+317,Hassan-Market PS #11,1,305.0,1,1,15,1
+318,Hassan Traffic Police Station,2,304.0,1,1,15,1
+319,Hassan Women Police Station,3,304.0,1,1,15,1
+320,Hassan Cyber Crime Police Station,4,304.0,1,1,15,1
+321,"Office of the SP, Haveri",7,6.0,1,1,16,1
+322,Haveri Circle-1,5,321.0,1,1,16,1
+323,Haveri Circle-2,5,321.0,1,1,16,1
+324,Haveri Town Police Station,1,322.0,1,1,16,1
+325,Haveri Rural Police Station,1,323.0,1,1,16,1
+326,Haveri East Police Station,1,322.0,1,1,16,1
+327,Haveri-West PS #4,1,323.0,1,1,16,1
+328,Haveri-North PS #5,1,322.0,1,1,16,1
+329,Haveri-South PS #6,1,323.0,1,1,16,1
+330,Haveri-Extension PS #7,1,323.0,1,1,16,1
+331,Haveri-Industrial Area PS #8,1,322.0,1,1,16,1
+332,Haveri Traffic Police Station,2,321.0,1,1,16,1
+333,Haveri Women Police Station,3,321.0,1,1,16,1
+334,Haveri Cyber Crime Police Station,4,321.0,1,1,16,1
+335,"Office of the SP, Kalaburagi",7,7.0,1,1,17,1
+336,Kalaburagi Circle-1,5,335.0,1,1,17,1
+337,Kalaburagi Circle-2,5,335.0,1,1,17,1
+338,Kalaburagi Circle-3,5,335.0,1,1,17,1
+339,Kalaburagi Circle-4,5,335.0,1,1,17,1
+340,Kalaburagi Town Police Station,1,336.0,1,1,17,1
+341,Kalaburagi Rural Police Station,1,339.0,1,1,17,1
+342,Kalaburagi East Police Station,1,336.0,1,1,17,1
+343,Kalaburagi-West PS #4,1,336.0,1,1,17,1
+344,Kalaburagi-North PS #5,1,336.0,1,1,17,1
+345,Kalaburagi-South PS #6,1,336.0,1,1,17,1
+346,Kalaburagi-Extension PS #7,1,337.0,1,1,17,1
+347,Kalaburagi-Industrial Area PS #8,1,337.0,1,1,17,1
+348,Kalaburagi-Old City PS #9,1,339.0,1,1,17,1
+349,Kalaburagi-New Town PS #10,1,339.0,1,1,17,1
+350,Kalaburagi Traffic Police Station,2,335.0,1,1,17,1
+351,Kalaburagi Women Police Station,3,335.0,1,1,17,1
+352,Kalaburagi Cyber Crime Police Station,4,335.0,1,1,17,1
+353,"Office of the SP, Kodagu",7,2.0,1,1,18,1
+354,Kodagu Circle-1,5,353.0,1,1,18,1
+355,Kodagu Circle-2,5,353.0,1,1,18,1
+356,Kodagu Circle-3,5,353.0,1,1,18,1
+357,Kodagu Circle-4,5,353.0,1,1,18,1
+358,Kodagu Town Police Station,1,357.0,1,1,18,1
+359,Madikeri Rural Police Station,1,355.0,1,1,18,1
+360,Madikeri East Police Station,1,357.0,1,1,18,1
+361,Madikeri-West PS #4,1,354.0,1,1,18,1
+362,Madikeri-North PS #5,1,355.0,1,1,18,1
+363,Madikeri-South PS #6,1,357.0,1,1,18,1
+364,Madikeri-Extension PS #7,1,354.0,1,1,18,1
+365,Madikeri-Industrial Area PS #8,1,357.0,1,1,18,1
+366,Madikeri-Old City PS #9,1,356.0,1,1,18,1
+367,Madikeri Traffic Police Station,2,353.0,1,1,18,1
+368,Madikeri Women Police Station,3,353.0,1,1,18,1
+369,Kodagu Cyber Crime Police Station,4,353.0,1,1,18,1
+370,"Office of the SP, Kolar",7,3.0,1,1,19,1
+371,Kolar Circle-1,5,370.0,1,1,19,1
+372,Kolar Circle-2,5,370.0,1,1,19,1
+373,Kolar Circle-3,5,370.0,1,1,19,1
+374,Kolar Circle-4,5,370.0,1,1,19,1
+375,Kolar Town Police Station,1,374.0,1,1,19,1
+376,Kolar Rural Police Station,1,373.0,1,1,19,1
+377,Kolar East Police Station,1,374.0,1,1,19,1
+378,Kolar-West PS #4,1,374.0,1,1,19,1
+379,Kolar-North PS #5,1,372.0,1,1,19,1
+380,Kolar-South PS #6,1,372.0,1,1,19,1
+381,Kolar-Extension PS #7,1,373.0,1,1,19,1
+382,Kolar-Industrial Area PS #8,1,372.0,1,1,19,1
+383,Kolar-Old City PS #9,1,371.0,1,1,19,1
+384,Kolar-New Town PS #10,1,371.0,1,1,19,1
+385,Kolar-Market PS #11,1,373.0,1,1,19,1
+386,Kolar-Cantonment PS #12,1,371.0,1,1,19,1
+387,Kolar-Suburb PS #13,1,371.0,1,1,19,1
+388,Kolar Traffic Police Station,2,370.0,1,1,19,1
+389,Kolar Women Police Station,3,370.0,1,1,19,1
+390,Kolar Cyber Crime Police Station,4,370.0,1,1,19,1
+391,"Office of the SP, Koppal",7,4.0,1,1,20,1
+392,Koppal Circle-1,5,391.0,1,1,20,1
+393,Koppal Circle-2,5,391.0,1,1,20,1
+394,Koppal Circle-3,5,391.0,1,1,20,1
+395,Koppal Town Police Station,1,394.0,1,1,20,1
+396,Koppal Rural Police Station,1,393.0,1,1,20,1
+397,Koppal East Police Station,1,394.0,1,1,20,1
+398,Koppal-West PS #4,1,394.0,1,1,20,1
+399,Koppal-North PS #5,1,392.0,1,1,20,1
+400,Koppal-South PS #6,1,392.0,1,1,20,1
+401,Koppal-Extension PS #7,1,394.0,1,1,20,1
+402,Koppal-Industrial Area PS #8,1,392.0,1,1,20,1
+403,Koppal-Old City PS #9,1,392.0,1,1,20,1
+404,Koppal-New Town PS #10,1,392.0,1,1,20,1
+405,Koppal-Market PS #11,1,394.0,1,1,20,1
+406,Koppal-Cantonment PS #12,1,392.0,1,1,20,1
+407,Koppal-Suburb PS #13,1,394.0,1,1,20,1
+408,Koppal-Town PS #14,1,392.0,1,1,20,1
+409,Koppal Traffic Police Station,2,391.0,1,1,20,1
+410,Koppal Women Police Station,3,391.0,1,1,20,1
+411,Koppal Cyber Crime Police Station,4,391.0,1,1,20,1
+412,"Office of the SP, Mandya",7,5.0,1,1,21,1
+413,Mandya Circle-1,5,412.0,1,1,21,1
+414,Mandya Circle-2,5,412.0,1,1,21,1
+415,Mandya Circle-3,5,412.0,1,1,21,1
+416,Mandya Town Police Station,1,414.0,1,1,21,1
+417,Mandya Rural Police Station,1,413.0,1,1,21,1
+418,Mandya East Police Station,1,415.0,1,1,21,1
+419,Mandya-West PS #4,1,413.0,1,1,21,1
+420,Mandya-North PS #5,1,415.0,1,1,21,1
+421,Mandya-South PS #6,1,415.0,1,1,21,1
+422,Mandya-Extension PS #7,1,413.0,1,1,21,1
+423,Mandya-Industrial Area PS #8,1,415.0,1,1,21,1
+424,Mandya-Old City PS #9,1,413.0,1,1,21,1
+425,Mandya-New Town PS #10,1,414.0,1,1,21,1
+426,Mandya Traffic Police Station,2,412.0,1,1,21,1
+427,Mandya Women Police Station,3,412.0,1,1,21,1
+428,Mandya Cyber Crime Police Station,4,412.0,1,1,21,1
+429,"Office of the SP, Mysuru",7,6.0,1,1,22,1
+430,Mysuru Circle-1,5,429.0,1,1,22,1
+431,Mysuru Circle-2,5,429.0,1,1,22,1
+432,Mysuru Circle-3,5,429.0,1,1,22,1
+433,Mysuru Circle-4,5,429.0,1,1,22,1
+434,Mysuru Town Police Station,1,432.0,1,1,22,1
+435,Mysuru Rural Police Station,1,432.0,1,1,22,1
+436,Mysuru East Police Station,1,431.0,1,1,22,1
+437,Mysuru-West PS #4,1,432.0,1,1,22,1
+438,Mysuru-North PS #5,1,431.0,1,1,22,1
+439,Mysuru-South PS #6,1,432.0,1,1,22,1
+440,Mysuru-Extension PS #7,1,433.0,1,1,22,1
+441,Mysuru-Industrial Area PS #8,1,431.0,1,1,22,1
+442,Mysuru-Old City PS #9,1,432.0,1,1,22,1
+443,Mysuru-New Town PS #10,1,433.0,1,1,22,1
+444,Mysuru-Market PS #11,1,432.0,1,1,22,1
+445,Mysuru-Cantonment PS #12,1,430.0,1,1,22,1
+446,Mysuru-Suburb PS #13,1,430.0,1,1,22,1
+447,Mysuru-Town PS #14,1,433.0,1,1,22,1
+448,Mysuru-Rural PS #15,1,430.0,1,1,22,1
+449,Mysuru-East PS #16,1,430.0,1,1,22,1
+450,Mysuru-West PS #17,1,431.0,1,1,22,1
+451,Mysuru-North PS #18,1,432.0,1,1,22,1
+452,Mysuru-South PS #19,1,431.0,1,1,22,1
+453,Mysuru-Extension PS #20,1,432.0,1,1,22,1
+454,Mysuru-Industrial Area PS #21,1,430.0,1,1,22,1
+455,Mysuru Traffic Police Station,2,429.0,1,1,22,1
+456,Mysuru Women Police Station,3,429.0,1,1,22,1
+457,Mysuru Cyber Crime Police Station,4,429.0,1,1,22,1
+458,"Office of the SP, Raichur",7,7.0,1,1,23,1
+459,Raichur Circle-1,5,458.0,1,1,23,1
+460,Raichur Circle-2,5,458.0,1,1,23,1
+461,Raichur Town Police Station,1,459.0,1,1,23,1
+462,Raichur Rural Police Station,1,460.0,1,1,23,1
+463,Raichur East Police Station,1,460.0,1,1,23,1
+464,Raichur-West PS #4,1,459.0,1,1,23,1
+465,Raichur-North PS #5,1,460.0,1,1,23,1
+466,Raichur-South PS #6,1,460.0,1,1,23,1
+467,Raichur-Extension PS #7,1,459.0,1,1,23,1
+468,Raichur-Industrial Area PS #8,1,460.0,1,1,23,1
+469,Raichur-Old City PS #9,1,459.0,1,1,23,1
+470,Raichur-New Town PS #10,1,459.0,1,1,23,1
+471,Raichur Traffic Police Station,2,458.0,1,1,23,1
+472,Raichur Women Police Station,3,458.0,1,1,23,1
+473,Raichur Cyber Crime Police Station,4,458.0,1,1,23,1
+474,"Office of the SP, Ramanagara",7,2.0,1,1,24,1
+475,Ramanagara Circle-1,5,474.0,1,1,24,1
+476,Ramanagara Circle-2,5,474.0,1,1,24,1
+477,Ramanagara Town Police Station,1,476.0,1,1,24,1
+478,Ramanagara Rural Police Station,1,475.0,1,1,24,1
+479,Ramanagara East Police Station,1,475.0,1,1,24,1
+480,Ramanagara-West PS #4,1,475.0,1,1,24,1
+481,Ramanagara-North PS #5,1,476.0,1,1,24,1
+482,Ramanagara-South PS #6,1,476.0,1,1,24,1
+483,Ramanagara-Extension PS #7,1,475.0,1,1,24,1
+484,Ramanagara-Industrial Area PS #8,1,476.0,1,1,24,1
+485,Ramanagara-Old City PS #9,1,475.0,1,1,24,1
+486,Ramanagara-New Town PS #10,1,476.0,1,1,24,1
+487,Ramanagara Traffic Police Station,2,474.0,1,1,24,1
+488,Ramanagara Women Police Station,3,474.0,1,1,24,1
+489,Ramanagara Cyber Crime Police Station,4,474.0,1,1,24,1
+490,"Office of the SP, Shivamogga",7,3.0,1,1,25,1
+491,Shivamogga Circle-1,5,490.0,1,1,25,1
+492,Shivamogga Circle-2,5,490.0,1,1,25,1
+493,Shivamogga Circle-3,5,490.0,1,1,25,1
+494,Shivamogga Circle-4,5,490.0,1,1,25,1
+495,Shivamogga Town Police Station,1,494.0,1,1,25,1
+496,Shivamogga Rural Police Station,1,493.0,1,1,25,1
+497,Shivamogga East Police Station,1,491.0,1,1,25,1
+498,Shivamogga-West PS #4,1,491.0,1,1,25,1
+499,Shivamogga-North PS #5,1,494.0,1,1,25,1
+500,Shivamogga-South PS #6,1,493.0,1,1,25,1
+501,Shivamogga-Extension PS #7,1,491.0,1,1,25,1
+502,Shivamogga-Industrial Area PS #8,1,491.0,1,1,25,1
+503,Shivamogga-Old City PS #9,1,493.0,1,1,25,1
+504,Shivamogga-New Town PS #10,1,492.0,1,1,25,1
+505,Shivamogga-Market PS #11,1,493.0,1,1,25,1
+506,Shivamogga-Cantonment PS #12,1,492.0,1,1,25,1
+507,Shivamogga Traffic Police Station,2,490.0,1,1,25,1
+508,Shivamogga Women Police Station,3,490.0,1,1,25,1
+509,Shivamogga Cyber Crime Police Station,4,490.0,1,1,25,1
+510,"Office of the SP, Tumakuru",7,4.0,1,1,26,1
+511,Tumakuru Circle-1,5,510.0,1,1,26,1
+512,Tumakuru Circle-2,5,510.0,1,1,26,1
+513,Tumakuru Town Police Station,1,512.0,1,1,26,1
+514,Tumakuru Rural Police Station,1,512.0,1,1,26,1
+515,Tumakuru East Police Station,1,511.0,1,1,26,1
+516,Tumakuru-West PS #4,1,511.0,1,1,26,1
+517,Tumakuru-North PS #5,1,511.0,1,1,26,1
+518,Tumakuru-South PS #6,1,511.0,1,1,26,1
+519,Tumakuru-Extension PS #7,1,511.0,1,1,26,1
+520,Tumakuru-Industrial Area PS #8,1,512.0,1,1,26,1
+521,Tumakuru-Old City PS #9,1,511.0,1,1,26,1
+522,Tumakuru-New Town PS #10,1,512.0,1,1,26,1
+523,Tumakuru-Market PS #11,1,511.0,1,1,26,1
+524,Tumakuru-Cantonment PS #12,1,511.0,1,1,26,1
+525,Tumakuru-Suburb PS #13,1,512.0,1,1,26,1
+526,Tumakuru-Town PS #14,1,512.0,1,1,26,1
+527,Tumakuru Traffic Police Station,2,510.0,1,1,26,1
+528,Tumakuru Women Police Station,3,510.0,1,1,26,1
+529,Tumakuru Cyber Crime Police Station,4,510.0,1,1,26,1
+530,"Office of the SP, Udupi",7,5.0,1,1,27,1
+531,Udupi Circle-1,5,530.0,1,1,27,1
+532,Udupi Circle-2,5,530.0,1,1,27,1
+533,Udupi Circle-3,5,530.0,1,1,27,1
+534,Udupi Town Police Station,1,531.0,1,1,27,1
+535,Udupi Rural Police Station,1,532.0,1,1,27,1
+536,Udupi East Police Station,1,531.0,1,1,27,1
+537,Udupi-West PS #4,1,533.0,1,1,27,1
+538,Udupi-North PS #5,1,531.0,1,1,27,1
+539,Udupi-South PS #6,1,533.0,1,1,27,1
+540,Udupi-Extension PS #7,1,531.0,1,1,27,1
+541,Udupi-Industrial Area PS #8,1,532.0,1,1,27,1
+542,Udupi-Old City PS #9,1,533.0,1,1,27,1
+543,Udupi-New Town PS #10,1,532.0,1,1,27,1
+544,Udupi-Market PS #11,1,533.0,1,1,27,1
+545,Udupi Traffic Police Station,2,530.0,1,1,27,1
+546,Udupi Women Police Station,3,530.0,1,1,27,1
+547,Udupi Cyber Crime Police Station,4,530.0,1,1,27,1
+548,"Office of the SP, Uttara Kannada",7,6.0,1,1,28,1
+549,Uttara Kannada Circle-1,5,548.0,1,1,28,1
+550,Uttara Kannada Circle-2,5,548.0,1,1,28,1
+551,Uttara Kannada Town Police Station,1,549.0,1,1,28,1
+552,Karwar Rural Police Station,1,549.0,1,1,28,1
+553,Karwar East Police Station,1,549.0,1,1,28,1
+554,Karwar-West PS #4,1,549.0,1,1,28,1
+555,Karwar-North PS #5,1,550.0,1,1,28,1
+556,Karwar-South PS #6,1,549.0,1,1,28,1
+557,Karwar-Extension PS #7,1,549.0,1,1,28,1
+558,Karwar-Industrial Area PS #8,1,550.0,1,1,28,1
+559,Karwar-Old City PS #9,1,550.0,1,1,28,1
+560,Karwar-New Town PS #10,1,549.0,1,1,28,1
+561,Karwar-Market PS #11,1,550.0,1,1,28,1
+562,Karwar Traffic Police Station,2,548.0,1,1,28,1
+563,Karwar Women Police Station,3,548.0,1,1,28,1
+564,Uttara Kannada Cyber Crime Police Station,4,548.0,1,1,28,1
+565,"Office of the SP, Vijayapura",7,7.0,1,1,29,1
+566,Vijayapura Circle-1,5,565.0,1,1,29,1
+567,Vijayapura Circle-2,5,565.0,1,1,29,1
+568,Vijayapura Circle-3,5,565.0,1,1,29,1
+569,Vijayapura Town Police Station,1,566.0,1,1,29,1
+570,Vijayapura Rural Police Station,1,568.0,1,1,29,1
+571,Vijayapura East Police Station,1,566.0,1,1,29,1
+572,Vijayapura-West PS #4,1,567.0,1,1,29,1
+573,Vijayapura-North PS #5,1,566.0,1,1,29,1
+574,Vijayapura-South PS #6,1,567.0,1,1,29,1
+575,Vijayapura-Extension PS #7,1,566.0,1,1,29,1
+576,Vijayapura-Industrial Area PS #8,1,566.0,1,1,29,1
+577,Vijayapura-Old City PS #9,1,567.0,1,1,29,1
+578,Vijayapura Traffic Police Station,2,565.0,1,1,29,1
+579,Vijayapura Women Police Station,3,565.0,1,1,29,1
+580,Vijayapura Cyber Crime Police Station,4,565.0,1,1,29,1
+581,"Office of the SP, Yadgir",7,2.0,1,1,30,1
+582,Yadgir Circle-1,5,581.0,1,1,30,1
+583,Yadgir Circle-2,5,581.0,1,1,30,1
+584,Yadgir Circle-3,5,581.0,1,1,30,1
+585,Yadgir Town Police Station,1,583.0,1,1,30,1
+586,Yadgir Rural Police Station,1,583.0,1,1,30,1
+587,Yadgir East Police Station,1,582.0,1,1,30,1
+588,Yadgir-West PS #4,1,582.0,1,1,30,1
+589,Yadgir-North PS #5,1,582.0,1,1,30,1
+590,Yadgir-South PS #6,1,584.0,1,1,30,1
+591,Yadgir-Extension PS #7,1,582.0,1,1,30,1
+592,Yadgir-Industrial Area PS #8,1,583.0,1,1,30,1
+593,Yadgir Traffic Police Station,2,581.0,1,1,30,1
+594,Yadgir Women Police Station,3,581.0,1,1,30,1
+595,Yadgir Cyber Crime Police Station,4,581.0,1,1,30,1
+596,"Office of the SP, Vijayanagara",7,3.0,1,1,31,1
+597,Vijayanagara Circle-1,5,596.0,1,1,31,1
+598,Vijayanagara Circle-2,5,596.0,1,1,31,1
+599,Vijayanagara Circle-3,5,596.0,1,1,31,1
+600,Vijayanagara Town Police Station,1,598.0,1,1,31,1
+601,Hosapete Rural Police Station,1,598.0,1,1,31,1
+602,Hosapete East Police Station,1,597.0,1,1,31,1
+603,Hosapete-West PS #4,1,598.0,1,1,31,1
+604,Hosapete-North PS #5,1,598.0,1,1,31,1
+605,Hosapete-South PS #6,1,599.0,1,1,31,1
+606,Hosapete-Extension PS #7,1,599.0,1,1,31,1
+607,Hosapete-Industrial Area PS #8,1,598.0,1,1,31,1
+608,Hosapete-Old City PS #9,1,599.0,1,1,31,1
+609,Hosapete-New Town PS #10,1,599.0,1,1,31,1
+610,Hosapete-Market PS #11,1,598.0,1,1,31,1
+611,Hosapete-Cantonment PS #12,1,597.0,1,1,31,1
+612,Hosapete Traffic Police Station,2,596.0,1,1,31,1
+613,Hosapete Women Police Station,3,596.0,1,1,31,1
+614,Vijayanagara Cyber Crime Police Station,4,596.0,1,1,31,1

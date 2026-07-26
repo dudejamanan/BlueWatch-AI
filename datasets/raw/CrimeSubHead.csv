@@ -1,0 +1,41 @@
+CrimeSubHeadID,CrimeHeadID,CrimeHeadName,SeqID
+1,1,Murder,1
+2,1,Attempt to Murder,2
+3,1,Culpable Homicide,3
+4,1,Grievous Hurt,4
+5,1,Simple Hurt,5
+6,1,Wrongful Confinement,6
+7,2,Theft,1
+8,2,Burglary/House-breaking,2
+9,2,Robbery,3
+10,2,Dacoity,4
+11,2,Criminal Breach of Trust,5
+12,2,Cheating (Property),6
+13,3,Rape,1
+14,3,Molestation / Outraging Modesty,2
+15,3,Dowry Death,3
+16,3,Cruelty by Husband/Relatives,4
+17,3,Stalking,5
+18,3,Kidnapping of Women,6
+19,4,POCSO Offences,1
+20,4,Kidnapping of Minors,2
+21,5,Cheating & Financial Fraud,1
+22,5,Forgery,2
+23,5,Cyber Financial Fraud,3
+24,6,Rioting,1
+25,6,Unlawful Assembly,2
+26,6,Promoting Enmity,3
+27,6,Criminal Intimidation,4
+28,6,Organised Crime,5
+29,7,NDPS - Cannabis,1
+30,7,NDPS - Manufactured Drugs,2
+31,7,Illicit Liquor,3
+32,7,Arms Act Violation,4
+33,8,Identity Theft / Online Fraud,1
+34,8,Cyberstalking / Online Harassment,2
+35,9,Rash/Negligent Driving,1
+36,9,Drunken Driving,2
+37,9,Hit and Run,3
+38,10,Bribery / Corruption,1
+39,11,Unnatural Death (UDR),1
+40,11,Missing Person,2

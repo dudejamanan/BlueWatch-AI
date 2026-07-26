@@ -1,0 +1,47 @@
+ActCode,SectionCode,SectionDescription,Active
+BNS,103,Murder,1
+BNS,105,Culpable homicide not amounting to murder,1
+BNS,109,Attempt to murder,1
+BNS,115,Voluntarily causing hurt,1
+BNS,118,Voluntarily causing grievous hurt,1
+BNS,126,Wrongful restraint,1
+BNS,127,Wrongful confinement,1
+BNS,137,Kidnapping,1
+BNS,140,Kidnapping for ransom,1
+BNS,64,Rape,1
+BNS,74,Assault or use of criminal force to woman with intent to outrage modesty,1
+BNS,76,Voyeurism,1
+BNS,78,Stalking,1
+BNS,85,Husband or relative subjecting woman to cruelty,1
+BNS,80,Dowry death,1
+BNS,303,Theft,1
+BNS,305,Theft in dwelling house,1
+BNS,308,Extortion,1
+BNS,309,Robbery,1
+BNS,310,Dacoity,1
+BNS,331,House-breaking,1
+BNS,318,Cheating,1
+BNS,316,Criminal breach of trust,1
+BNS,338,Forgery,1
+BNS,351,Criminal intimidation,1
+BNS,191,Rioting,1
+BNS,189,Unlawful assembly,1
+BNS,196,Promoting enmity between groups,1
+BNS,111,Organised crime,1
+BNS,112,Petty organised crime,1
+NDPS,8,Prohibition of certain operations,1
+NDPS,20,Punishment for cannabis offences,1
+NDPS,21,Punishment for offences involving manufactured drugs,1
+ARMS,25,Punishment for certain offences,1
+ARMS,27,Punishment for use of arms,1
+POCSO,4,Punishment for penetrative sexual assault,1
+POCSO,8,Punishment for sexual assault,1
+IT,66,Computer related offences,1
+IT,66C,Identity theft,1
+IT,66D,Cheating by personation using computer resource,1
+PC,7,Public servant taking gratification,1
+MV,184,Driving dangerously,1
+MV,185,Driving under influence,1
+KPACT,78,Gaming in public place,1
+EXCISE,32,Illegal possession of liquor,1
+DOWRY,3,Penalty for giving or taking dowry,1

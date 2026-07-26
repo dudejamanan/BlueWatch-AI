@@ -1,0 +1,13 @@
+RankID,RankName,Hierarchy,Active
+1,Director General of Police (DGP),1,1
+2,Addl. DGP,2,1
+3,Inspector General of Police (IGP),3,1
+4,Deputy Inspector General (DIG),4,1
+5,Superintendent of Police (SP),5,1
+6,Additional SP,6,1
+7,Deputy Superintendent of Police (DySP),7,1
+8,Police Inspector (PI/CPI),8,1
+9,Police Sub-Inspector (PSI),9,1
+10,Assistant Sub-Inspector (ASI),10,1
+11,Head Constable (HC),11,1
+12,Police Constable (PC),12,1
