@@ -6,6 +6,10 @@ from app.services.ai.sql_executor import execute_sql
 def ask_database(question: str):
     # Step 1: Generate SQL
     sql = sql_chain.invoke({"question": question})
+    print("\nGenerated SQL:")
+    print("-" * 50)
+    print(repr(sql))
+    print("-" * 50)
 
     # Step 2: Execute SQL
     result = execute_sql(sql)
@@ -28,11 +32,9 @@ Do not mention SQL unless explicitly asked.
 If the result is empty, clearly say no records were found.
 """
 
-    answer = llm.invoke(prompt)
 
     return {
         "question": question,
-        "answer": answer.content,
         "sql": sql,
         "result": result,
     }

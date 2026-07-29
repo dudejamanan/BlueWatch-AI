@@ -18,6 +18,4 @@ def query_database(question: str) -> str:
     - crimes
     """
 
-    response = ask_database(question)
-
-    return response["answer"]
+    return ask_database(question)
