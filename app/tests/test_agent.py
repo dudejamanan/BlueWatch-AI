@@ -5,7 +5,7 @@ response = agent.invoke(
         "messages": [
             {
                 "role": "user",
-                "content": "show the recent trends of murder cases in the city"
+                "content": "Show the criminal network."
             }
         ]
     }
